@@ -1,0 +1,758 @@
+{
+    "4129e499-64b3-4918-ace6-91d895c8e37b": [
+        {
+            "type": "human",
+            "data": {
+                "content": "hello"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "I'm sorry, but I don't have enough information to answer that question based on my current knowledge. If you have any other questions or need further help, feel free to ask!"
+            }
+        }
+    ],
+    "2b900397-f84b-4e90-9d6d-c25e8b18fd79": [
+        {
+            "type": "human",
+            "data": {
+                "content": "Hi"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "- Hello! How can I assist you today?\n- Do you have any questions or need further help?"
+            }
+        }
+    ],
+    "e8682593-b6ee-4bd7-90ef-1f19664f90ae": [
+        {
+            "type": "human",
+            "data": {
+                "content": "Hello"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "- Hello! How can I assist you today?\n- Do you have any questions or need further help?"
+            }
+        }
+    ],
+    "dbc06a77-831c-4267-ba35-6f57d6fd8e14": [
+        {
+            "type": "human",
+            "data": {
+                "content": "What is the team outing budget allocated at Valuebound, and what can it be used for?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "- The team outing budget allocated at Valuebound is **INR 2000 annually**, which is equally split across four quarters, amounting to **INR 500 per quarter per employee** for employee entertainment activities.\n- The team outing budget can be used for activities such as:\n  1. Team lunches/dinner\n  2. Movies\n  3. Team building activities\n  4. Team outing\n  5. Purchasing gifts/merchandise/vouchers\n\nIf you have any other questions or need further assistance, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 1: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "c8d1f00e-f528-4798-aee9-254ee9f01ad3": [
+        {
+            "type": "human",
+            "data": {
+                "content": "List out holidays"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "- The HR department finalizes the holiday list in December for the upcoming year.\n- The organization declares a total of ten holidays in a calendar year, including National, State, and festival holidays.\n- Eight holidays are fixed, and two are optional.\n- Employees need to apply for optional leave at least a day in advance on the tool.\n- Employees deputed at client locations follow the client holiday calendar and apply the same on GreyHR for optional leave.\n- Unutilized optional leave will lapse by the year-end and cannot be adjusted against any other leave.\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 1: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "8ae81d0b-8dc9-46a6-af59-d388d1252043": [
+        {
+            "type": "human",
+            "data": {
+                "content": "Do we have performance review in our company?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "- Yes, **Valuebound Consulting Services Pvt Ltd** has a performance review process in place.\n- The performance reviews occur annually for all eligible employees.\n- The performance period considered for anniversary revisions is an aggregate of the last 2 annual ratings applicable at the time of revision.\n- Goal setting happens in January of every calendar year.\n- For employees whose performance is between two calendar years, the performance rating will be a cumulative rating based on performance goals set in the team.\n- Final ratings are communicated to employees by their respective Reporting Managers, and appraisal forms are closed incorporating these changes.\n- This process helps reach the desired bell curve at the organizational level.\n- Performance reviews are done for all eligible employees on a bi-annual basis.\n- The review frequency is at least once every 6 months (Bi-Annually). \n\nDo you have any other questions or need further help?\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 1: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "561cd047-8ac3-4e20-8e25-6f7d81b92e8a": [
+        {
+            "type": "human",
+            "data": {
+                "content": "What is the team outing budget allocated at Valuebound, and what can it be used for?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "The team outing budget allocated at Valuebound is INR 2000 annually, which is equally split across four quarters, amounting to INR 500 per quarter per employee for employee entertainment activities. This budget can be used for team outings, team lunches/dinners, movies, team building activities, and purchasing gifts/merchandise/vouchers. The spirit behind this allocation is to encourage team bonding and the spirit of togetherness among employees. If you have any more questions or need further clarification, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 1: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "32c1d209-9bfe-4c8d-91ef-6c66fedcb725": [
+        {
+            "type": "human",
+            "data": {
+                "content": "What expenses are eligible for reimbursement under the company's laptop policy?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Under the company's laptop policy, expenses related to laptop repair are eligible for reimbursement. However, employees must handle laptops with care, use protective cases, and avoid risks like exposure to liquids or heat. Any damage must be reported immediately. Employees are responsible for any physical damage to laptops due to negligence, misuse, or accidents, and the company will not cover repair costs for damage caused by extreme temperatures, pets, children, or during transit. Employees assigned company laptops can claim laptop repair reimbursement subject to pre-approval on a case-by-case basis. If approved, the total cost of repair or replacement will be covered by the company. \n\nIf you have any other questions or need further clarification, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 1: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "37a4f523-f54f-4dde-8798-ba57b9a5f1a0": [
+        {
+            "type": "human",
+            "data": {
+                "content": "What are the steps involved in the exit process, and how can I ensure a smooth handover of responsibilities?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "The steps involved in the exit process at our company include:\n\n1. Initiation of resignation by the employee.\n2. Recovery of company property by the reporting manager.\n3. Disabling access rights to IT infrastructure by the IT SPOC.\n4. Escorting the employee to their desk by HR to collect personal belongings.\n5. If the reporting manager does not act on the resignation within 2 weeks, HR coordinates with authorities for approval/rejection.\n6. If accepted, the reporting manager identifies a successor and initiates the handing over process.\n7. Monitoring the transition process with the identified successor.\n\nTo ensure a smooth handover of responsibilities during the exit process, it is important for the reporting manager to actively participate in identifying a suitable successor, initiating the handover process, and monitoring the transition. Clear communication, documentation of responsibilities, and proper training of the successor are key factors in ensuring a smooth handover.\n\nIf you have any further questions or need more information on this topic, please feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 1: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "2f0ae6e5-09dc-4566-a578-3cbd351e4e9c": [
+        {
+            "type": "human",
+            "data": {
+                "content": "1. How does the company ensure that the handover of responsibilities is done efficiently and effectively during the exit process?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "During the exit process, the company ensures that the handover of responsibilities is done efficiently and effectively by requiring the reporting manager to identify a suitable successor and initiate the handing over process. The reporting manager also monitors the transition process with the identified successor to ensure a smooth transfer of responsibilities. Additionally, the respective support functions are responsible for completing the process before the last working day of the employee. Any company property in the possession of the employee is recovered by the reporting manager and handed over to the respective departments. Access rights to any IT infrastructure are disabled immediately by the IT SPOC to maintain security. This structured approach helps in ensuring a seamless handover of responsibilities during the exit process.\n\nIf you have any other questions or need further assistance, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 1: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "65729e22-200d-427a-83e4-1d61d984f776": [
+        {
+            "type": "human",
+            "data": {
+                "content": "Am I eligible to apply for a certification course under the Extended Learning Program (ELP), and what is the reimbursement process?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Yes, as an employee of Valuebound Consulting Services Pvt Ltd, you are eligible to apply for a certification course under the Extended Learning Program (ELP). The process involves identifying a relevant certification based on your job role and career aspirations, notifying your reporting manager and HR about the certification you plan to pursue, and filling out the template for the ELP.\n\nOnce you have completed the certification course, you can submit the signed agreement from the employee for reimbursement approval by HR. All approvals should be sought prior to program enrollment. The reimbursement process will be handled according to the company's policies and procedures.\n\nIf you have any more questions or need further assistance with the certification course or reimbursement process, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 1: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "200af2b3-249e-44e8-bf83-e45b947cd012": [
+        {
+            "type": "human",
+            "data": {
+                "content": "How can I ensure that my performance goals align with the company\u2019s objectives for this year?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "To ensure that your performance goals align with the company's objectives for this year, you should set your goals in consultation with your reporting manager. The goals should be mutually agreed upon and should be aligned with the Organization Objectives defined for the year. This process should be completed by 31st January for existing employees and within 30 days from their date of joining for new employees. It is important to regularly communicate with your reporting manager to ensure that your goals are in line with the company's objectives and make any necessary revisions if you move to a new project or have a different reporting manager.\n\nIf you need further guidance on setting performance goals that align with the company's objectives, I recommend discussing this with your reporting manager or referring to the company's Performance Management Policy for more detailed information.\n\nDo you have any other questions or need further help?\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 1: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "f7ca2056-ab6c-41f9-b6a9-1c48cbce4436": [
+        {
+            "type": "human",
+            "data": {
+                "content": "Who is responsible for maintaining the physical security of IT assests like laptops and servers?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "The responsibility for maintaining the physical security of IT assets like laptops and servers lies with the IT department staff. They implement physical access controls, surveillance systems, and alarms to protect the physical IT infrastructure from unauthorized access. Access to hospital data centers and server rooms is strictly controlled to ensure that only authorized personnel are granted entry. Unauthorized software installation is prohibited, and only authorized and licensed software may be installed by IT department staff. \n\nIf you have any other questions or need further assistance, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/IT%20POLICY.txt\" target=\"_blank\">Source 1: IT POLICY.txt</a>\n- <a href=\"http://127.0.0.1:8000/static/IT%20POLICY.mp4\" target=\"_blank\">Source 2: IT POLICY.mp4</a>"
+            }
+        }
+    ],
+    "d81f926f-085d-429a-80df-e5d339822597": [
+        {
+            "type": "human",
+            "data": {
+                "content": "Hi"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Hello! How can I assist you today? If you have any questions or need help, feel free to ask!"
+            }
+        }
+    ],
+    "56fb1334-8cdc-4594-9e69-d9f4ade4769f": [
+        {
+            "type": "human",
+            "data": {
+                "content": "1. What specific services or information can you provide assistance with?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "As an expert in natural language at Yugm.ai, I can provide assistance with a wide range of services and information related to our company's history, policies, and culture. I can help with understanding the necessary technologies for your next project, connecting you with a training manager for relevant courses and assessments, and providing feedback on learning outcomes and assessment evaluation scores. Additionally, I can assist new employees in settling down smoothly in the organization, providing emotional support, helping them network with appropriate people, and being a go-to person for any issues they may have. If you have any other questions or need further help, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 1: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "19cc259a-1187-489f-845d-58787120850a": [
+        {
+            "type": "human",
+            "data": {
+                "content": "tell me about health insurance policy"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "The health insurance policy at our company has coverage limits of 5 lakhs or 10 lakhs. Policyholders have rights such as annual health checkups, 24/7 help availability, claim reimbursement within a week, easy policy availment, and benefits for dependents. Employees should add dependents only once when their name is added, with exceptions allowed only for marriage or childbirth. The policy covers all types of health issues, OPD checkups, full body checkups, and provides access to hospitals all over India for checkups and claim benefits. If you have any specific questions about the health insurance policy, feel free to ask!\n\nDo you have any other questions or need further help?\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/Health-Insurance.pdf\" target=\"_blank\">Source 1: Health-Insurance.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 2: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "470b49e7-e52a-46c3-a792-58bbc7f1aee3": [
+        {
+            "type": "human",
+            "data": {
+                "content": "If an employee want to opt out of health insurance coverage than can he do so?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Yes, an employee can opt out of health insurance coverage if they wish to do so. However, it is important to note that opting out of health insurance coverage may have implications on the employee's overall benefits package. It is recommended that the employee carefully review the company's policies and discuss their decision with the HR department to fully understand the consequences of opting out of health insurance coverage.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/Health-Insurance.pdf\" target=\"_blank\">Source 1: Health-Insurance.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 2: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "a8f868d2-4035-4f4d-9d73-899e36dd29b1": [
+        {
+            "type": "human",
+            "data": {
+                "content": "If someone opt out from health insurance policy than will he get any reimbursement or that amount get added in the salary?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "If someone opts out from the health insurance policy, they will not receive any reimbursement for that amount. The amount allocated for the health insurance policy is a separate benefit provided by the company and is not added to the employee's salary. It is important to carefully consider the benefits and coverage provided by the health insurance policy before making a decision to opt out. If you have any further questions or need more information, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/Health-Insurance.pdf\" target=\"_blank\">Source 1: Health-Insurance.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 2: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "682c281f-8421-4517-8c93-08ae3013c5aa": [
+        {
+            "type": "human",
+            "data": {
+                "content": "Hi"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Hello! How can I assist you today? Do you have any questions or need further help?"
+            }
+        }
+    ],
+    "2d2de5af-fa95-4d25-bb30-4fb2e68e5dfe": [
+        {
+            "type": "human",
+            "data": {
+                "content": "Explain me health insurance policy in brief"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Our health insurance policy offers coverage limits of either 5 lakhs or 10 lakhs. As a policyholder, you have the right to an annual health checkup, 24/7 assistance, claim reimbursement within a week, easy policy availment, and benefits for dependents. Dependents can be added only once when the employee's name is added, with exceptions for marriage or childbirth. The policy schedule includes add-on covers, a list of covered employees, third-party administrator details for claims assistance, and policy wordings for \"Group Medishield Policy Coverage.\" The policy period is the duration of the policy as shown in the schedule, and portability allows for the transfer of credit for pre-existing conditions and exclusions between insurers. If there are any discrepancies, please inform the policy issuing office immediately. If you have any further questions or need assistance, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/Health-Insurance.pdf\" target=\"_blank\">Source 1: Health-Insurance.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 2: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "344567f5-03d4-419c-bc95-3a75021a4c3c": [
+        {
+            "type": "human",
+            "data": {
+                "content": "Total number of Members Covered in policy?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "The total number of members covered in the policy is 144, which includes 65 self members and 79 dependents.\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/Health-Insurance.pdf\" target=\"_blank\">Source 2: Health-Insurance.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/Policy-copy-GMC-VALUEBOUND-CONSULTING-SERVICES-PRIVATE-2c790242-1784-4d77-93c6-4b4b944e1ef1-87ff9019-39a2-4c7d-b01b-6f049b05706f.pdf\" target=\"_blank\">Source 3: Policy-copy-GMC-VALUEBOUND-CONSULTING-SERVICES-PRIVATE-2c790242-1784-4d77-93c6-4b4b944e1ef1-87ff9019-39a2-4c7d-b01b-6f049b05706f.pdf</a>"
+            }
+        }
+    ],
+    "f153eaad-9c9c-47ae-b64e-2bc436d5cbcc": [
+        {
+            "type": "human",
+            "data": {
+                "content": "If the Insured Person sustains injury or contracts any disease, What hospitalization expenses can he cover?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "If the Insured Person sustains injury or contracts any disease, the hospitalization expenses that can be covered include:\n1. Room and Boarding Expenses as provided by the Hospital/Nursing Home.\n2. Nursing Expenses.\n3. Surgeon, Anesthetist, Medical Practitioner, Consultants, Specialist Fees.\n4. Expenses for consultation through telemedicine as per prevailing Telemedicine Practice Guideline.\n\nThese expenses will be covered up to the limit of the Sum Insured of the insured person per policy period. Additionally, expenses in Domiciliary Hospitalisation at reasonable and customary charges may also be covered. \n\nIf you have any more questions or need further clarification, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "071bc92b-a7ef-4fb4-93cd-fed4d4a8d4dd": [
+        {
+            "type": "human",
+            "data": {
+                "content": "What are MODERN TREATMENT METHODS AND ADVANCEMENT IN TECHNOLOGIES"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "The MODERN TREATMENT METHODS AND ADVANCEMENT IN TECHNOLOGIES covered by the policy include:\n1. Injections\n2. Robotic surgeries\n3. Stereotactic radio surgeries\n4. Bronchial Thermoplasty\n5. Vaporisation of the prostate (Green laser treatment or holmium laser treatment)\n6. IONM - Intra Operative Neuro Monitoring\n7. Stem cell therapy: Hematopoietic stem cells for bone marrow transplant for hematological conditions\n\nThese procedures will be covered if medically indicated. If you need more information on any specific procedure or have any other questions, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "c32d8fd9-8ac6-4669-9f37-6f41b43e81b6": [
+        {
+            "type": "human",
+            "data": {
+                "content": "I want to know about DAY CARE TREATMENT"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "DAY CARE TREATMENT refers to medical treatment and/or surgical procedures that are undertaken under General or Local Anesthesia in a hospital or day care center in less than 24 hours. This type of treatment is possible due to technological advancements and would have otherwise required a hospitalization of more than 24 hours. It is different from treatment normally taken on an outpatient basis. Day care treatments are listed in the policy document under \"List of Day Care Procedures\" and are payable even if the duration of hospitalization is less than 24 hours. These treatments are typically carried out under the supervision of registered AYUSH Medical Practitioners on a day care basis, without in-patient services. The facility must have qualified registered AYUSH Medical Practitioners in charge, dedicated AYUSH therapy sections as required, equipped operation theaters for surgical procedures, and maintain daily records of patients accessible to authorized personnel.\n\nIf you have any more questions or need further information, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "00aa69a2-e9b1-4ae0-998c-1e5e600ff3a9": [
+        {
+            "type": "human",
+            "data": {
+                "content": "What hospitals are covered in DAY CARE TREATMENT"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "The hospitals covered in DAY CARE TREATMENT are those that provide medical treatment and/or surgical procedures under General or Local Anesthesia in a hospital/day care center in less than 24 hours due to technological advancements. These hospitals must meet the criteria of offering treatments that would have otherwise required a hospitalization of more than 24 hours. It is important to refer to the policy document or contact the insurance provider for a specific list of hospitals covered under DAY CARE TREATMENT. If you need further assistance or have any other questions, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "d2724b76-d365-4247-9a33-cf7989d758aa": [
+        {
+            "type": "human",
+            "data": {
+                "content": "List out the hospitals for DAY CARE TREATMENT"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "I'm sorry, but I don't have enough information to answer that question based on my current knowledge."
+            }
+        }
+    ],
+    "58fe6f81-99e0-4297-b67f-912d819dfbac": [
+        {
+            "type": "human",
+            "data": {
+                "content": "What is not covered in insurance policy?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Based on the information provided, the following are not covered in the insurance policy:\n\n1. Pre-existing diseases such as Fistula in anus, Piles, Sinusitis, and related disorders if they are present at the time of proposal.\n2. War (whether declared or not), war-like occurrences, invasion, acts of foreign enemies, hostilities, civil war, rebellion, revolutions, insurrections, mutiny, military or usurped power, seizure, capture, arrest, or attempting to commit a breach of law with criminal intent.\n3. Expenses incurred towards treatment in any hospital or by any Medical Practitioner or any other provider specifically excluded by the insurance company and disclosed on their website or notified to the policyholders.\n4. Cost of treatment (both cashless and reimbursement) pertaining to any procedure or treatment undertaken by the insured person(s) in any of the excluded hospitals or from any of the excluded medical practitioners specified in the list attached to the policy.\n\nIf you have any other questions or need further clarification, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "1a2365cf-2406-4231-826a-83e601bc4146": [
+        {
+            "type": "human",
+            "data": {
+                "content": "What is not covered in insurance policy list all the details"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "In the insurance policy, expenses incurred towards treatment in any hospital or by any Medical Practitioner or any other provider specifically excluded by the company are not admissible. The excluded providers are under Code- Excl1126. Additionally, in case of life-threatening situations or following an accident, expenses up to the stage of stabilization are payable, but not the complete claim. For a comprehensive list of exclusions, it is recommended to refer to the policy wordings, endorsements, and clauses attached to the Group Medishield Insurance Policy. If you have any specific questions regarding coverage details, feel free to reach out for further clarification.\n\nDo you have any other questions or need further assistance?\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "59a4b4e2-9a0f-464a-b24d-024ce5e0ffb6": [
+        {
+            "type": "human",
+            "data": {
+                "content": "If I want to claim the mediclaim then what is CLAIM PROCEDURE AND REQUIREMENTS"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "The claim procedure and requirements for the Group Mediclaim Policy are as follows:\n\n1. Any event that might become a claim under the policy must be reported to the company as soon as possible, but not later than 7 days from the date of hospitalization.\n2. Intimation of claims should be done within 7 days from the date of hospitalization as per the Standard ITGI GMC policy. Non-compliance will result in a 10% Co-pay.\n3. All claim documents for reimbursement should be submitted within 30 days from the date of discharge.\n\nFor more detailed information and specific requirements, it is recommended to refer to the attached Group Mediclaim Policy Wordings and Benefit Chart or contact the 24 Hour Call Centre at 1800-209-5858, 1800-102-5858 (Toll Free), or email Bagichelp@bajajallianz.co.in. You can also visit the website www.bajajallianz.com for further assistance.\n\nDo you have any other questions or need further help?\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/Policy-copy-GMC-VALUEBOUND-CONSULTING-SERVICES-PRIVATE-2c790242-1784-4d77-93c6-4b4b944e1ef1-87ff9019-39a2-4c7d-b01b-6f049b05706f.pdf\" target=\"_blank\">Source 2: Policy-copy-GMC-VALUEBOUND-CONSULTING-SERVICES-PRIVATE-2c790242-1784-4d77-93c6-4b4b944e1ef1-87ff9019-39a2-4c7d-b01b-6f049b05706f.pdf</a>"
+            }
+        }
+    ],
+    "8baf14c7-651b-483b-b881-f3062b15038a": [
+        {
+            "type": "human",
+            "data": {
+                "content": "I want to claim the mediclaim then what is the CLAIM PROCEDURE AND REQUIREMENTS"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "To claim the mediclaim, you must follow the claim procedure and requirements outlined in the attached Group Mediclaim Policy Wordings and Benefit Chart. Here are the key steps:\n\n1. **Intimation of Claims**: Claims must be intimated within 7 days from the date of hospitalization as per the Standard ITGI GMC policy. Non-compliance will result in a 10% Co-pay.\n\n2. **Submission of Claim Documents**: All claim documents for reimbursement should be submitted within 30 days from the date of discharge.\n\n3. **Duration of Hospitalization**: Even if the duration of hospitalization is less than 24 hours, the claim will be payable.\n\nPlease refer to the policy document for detailed information on the claim procedure and requirements. If you have any specific questions or need assistance with the claim process, feel free to contact our 24 Hour Call Centre at 1800-209-5858, 1800-102-5858 (Toll Free) or email us at Bagichelp@bajajallianz.co.in.\n\nDo you have any other questions or need further help with your claim process?\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/Policy-copy-GMC-VALUEBOUND-CONSULTING-SERVICES-PRIVATE-2c790242-1784-4d77-93c6-4b4b944e1ef1-87ff9019-39a2-4c7d-b01b-6f049b05706f.pdf\" target=\"_blank\">Source 2: Policy-copy-GMC-VALUEBOUND-CONSULTING-SERVICES-PRIVATE-2c790242-1784-4d77-93c6-4b4b944e1ef1-87ff9019-39a2-4c7d-b01b-6f049b05706f.pdf</a>"
+            }
+        }
+    ],
+    "cc6e1b8e-8a4a-4a01-b030-dd790630ad41": [
+        {
+            "type": "human",
+            "data": {
+                "content": "List 5 hospitals that are not eligible for cashless or reimbursement claims"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "I'm sorry, but I don't have enough information to answer that question based on my current knowledge."
+            }
+        }
+    ],
+    "c0df4954-b62c-42ea-a844-6b5ea3ee979d": [
+        {
+            "type": "human",
+            "data": {
+                "content": "1. Can you provide more details on the specific claim documents that need to be submitted within 30 days from the date of discharge?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "The specific claim documents that need to be submitted within 30 days from the date of discharge include all bills, receipts, certificates related to the hospitalization expenses. It is crucial to ensure that these documents are provided within the stipulated time frame to avoid any delays or complications in the reimbursement process. If you have any further questions regarding the required claim documents or need assistance with the submission process, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "e6ac344e-5467-4862-bcc6-17fbb4ebdae3": [
+        {
+            "type": "human",
+            "data": {
+                "content": "list out HOSPITALS NOT ELIGIBLE FOR CASHLESS OR REIMBURSEMENT CLAIMS"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Based on the information provided, hospitals or medical practitioners specified in the list attached to the policy are not eligible for cashless or reimbursement claims. The list of excluded hospitals or medical practitioners is dynamic and may change from time to time. It is recommended to check with the Call Centre at 1800 102 5858 (Bharti) or 020 - 30305858 (Others) for the most up-to-date information on excluded providers. \n\nIf you have any further questions or need assistance, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/Policy-copy-GMC-VALUEBOUND-CONSULTING-SERVICES-PRIVATE-2c790242-1784-4d77-93c6-4b4b944e1ef1-87ff9019-39a2-4c7d-b01b-6f049b05706f.pdf\" target=\"_blank\">Source 1: Policy-copy-GMC-VALUEBOUND-CONSULTING-SERVICES-PRIVATE-2c790242-1784-4d77-93c6-4b4b944e1ef1-87ff9019-39a2-4c7d-b01b-6f049b05706f.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 2: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "b0c50576-7d86-4b6b-ae48-717b4cab70b2": [
+        {
+            "type": "human",
+            "data": {
+                "content": "1. Can you provide examples of specific hospitals or medical practitioners that are currently on the list of excluded providers for cashless or reimbursement claims?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "I'm sorry, but I don't have enough information to answer that question based on my current knowledge. For the most up-to-date list of excluded hospitals or medical practitioners for cashless or reimbursement claims, I recommend checking the company's website or contacting their call center or nearest office. They will have the most current information available. Do you have any other questions or need further help?"
+            }
+        }
+    ],
+    "133563e8-5c8e-49fc-8b46-23f712734750": [
+        {
+            "type": "human",
+            "data": {
+                "content": "Will following thing covered?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Based on the information provided, the following things will be covered under the policy:\n1. External Congenital disease/defects or anomalies\n2. Terrorism-related hospitalization\n3. Co-payments (if applicable, with limits mentioned)\n4. Cyberknife treatment\n5. Stem Cell Transplantation\n6. Cochlear Implant treatment\n7. Genetic disorder\n\nIf you have any specific questions about coverage or need further clarification, feel free to ask! Do you have any other questions or need further help?\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "523cc752-8ed5-4e94-afb1-fe416fca0aec": [
+        {
+            "type": "human",
+            "data": {
+                "content": "Any Expenses under Domiciliary Hospitalisation for Treatment will be covered or not?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Yes, expenses under Domiciliary Hospitalisation for treatment will be covered up to a reasonable and customary level of charges. This means that if the insured person requires treatment at home instead of in a hospital, the expenses incurred for that treatment will be covered as per the policy terms and conditions.\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "82ad2414-f840-42c5-9516-5fc712c9f5ff": [
+        {
+            "type": "human",
+            "data": {
+                "content": "Can I opt out from health insurance policy?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Yes, you can opt out from the health insurance policy. If you wish to terminate the policy, you can do so by following the procedures outlined in the policy document. Please note that if termination takes place on account of reasons apart from what is covered under the policy, a pro-rata refund of premium for the balance period of the policy will be effective. It's important to review the policy terms and conditions for specific details on opting out. If you have any further questions or need assistance with this process, feel free to reach out to the HR department or the insurance provider. Do you have any other questions or need further help?\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/Health-Insurance.pdf\" target=\"_blank\">Source 2: Health-Insurance.pdf</a>"
+            }
+        }
+    ],
+    "19995a49-f3d8-49ea-a480-c1bd23d35977": [
+        {
+            "type": "human",
+            "data": {
+                "content": "If I opt out from health insurance policy then will I get any reimbursement?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "If you opt out from the health insurance policy, there may not be any reimbursement available. It is important to carefully review the policy terms and conditions regarding cancellations and refunds. In the context provided, it mentions that no refund is allowable in case of cancellation of certain options during the policy period. It is advisable to contact the insurance provider directly for specific details on reimbursement in case of opting out of the policy. \n\nIf you have any more questions or need further assistance, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/Health-Insurance.pdf\" target=\"_blank\">Source 2: Health-Insurance.pdf</a>"
+            }
+        }
+    ],
+    "99ffced1-c063-422f-bb14-0a869ce655ad": [
+        {
+            "type": "human",
+            "data": {
+                "content": "2. Are there any alternative options or benefits that may be offered instead of reimbursement for opting out of the policy?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "I'm sorry, but based on the information provided in the context, there is no mention of alternative options or benefits that may be offered instead of reimbursement for opting out of the policy. If you have specific questions about alternative options, I recommend reaching out to our customer service team or referring to the policy documents for more detailed information. \n\nDo you have any other questions or need further assistance?"
+            }
+        }
+    ],
+    "ff8b236f-07cb-41e6-be9e-1e96028da9aa": [
+        {
+            "type": "human",
+            "data": {
+                "content": "3. How does the process of opting out of a health insurance policy typically work, and what steps should be taken to ensure clarity on reimbursement?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "To opt out of a health insurance policy, the insured person typically needs to inform the insurance company in writing about their decision to cancel the policy. It is important to review the policy documents to understand the specific steps and requirements for opting out. \n\nIn order to ensure clarity on reimbursement, the insured person should follow these steps:\n1. Contact the insurance company's customer service or claims department to inquire about the reimbursement process.\n2. Provide all necessary documentation, such as medical bills, receipts, and any other relevant information related to the claim.\n3. Follow any specific instructions provided by the insurance company for submitting a reimbursement claim.\n4. Keep track of all communication with the insurance company regarding the reimbursement claim.\n5. Be aware of any policy coverage limits and exclusions that may affect the reimbursement amount.\n\nIf you have any further questions or need assistance with opting out of a health insurance policy or reimbursement process, please feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/Health-Insurance.pdf\" target=\"_blank\">Source 2: Health-Insurance.pdf</a>"
+            }
+        }
+    ],
+    "845a8a10-66b4-4850-94ef-0a9b2bdeb092": [
+        {
+            "type": "human",
+            "data": {
+                "content": "How much money will be added in my salary after this"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "I'm sorry, but I don't have enough information to answer that question based on my current knowledge. \n\nIf you have any specific questions about the salary increment process at our company or need further clarification, feel free to ask. Do you have any other questions or need further help?"
+            }
+        }
+    ],
+    "60939f7b-3680-4846-8409-66fe715bb784": [
+        {
+            "type": "human",
+            "data": {
+                "content": "If I opt for medical insurance than how much amount will be deducted from my salary?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "If you opt for medical insurance, the amount deducted from your salary will depend on the premium amount set by the insurance company. In this case, the net premium is Rs. 39,357 and the gross premium is Rs. 46,441. Additionally, there are GST details provided which show the CGST and SGST percentages and amounts. \n\nTo get the exact deduction amount from your salary, you would need to calculate the total premium amount including GST and any other applicable charges, and then determine the deduction based on your salary structure and the agreed upon deduction percentage.\n\nIf you have any specific questions about the deduction process or need assistance in understanding the premium details further, feel free to ask! Do you have any other questions or need further help?\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/Health-Insurance.pdf\" target=\"_blank\">Source 2: Health-Insurance.pdf</a>"
+            }
+        }
+    ],
+    "ead03d78-df67-48f2-a86c-ef593e819331": [
+        {
+            "type": "human",
+            "data": {
+                "content": "ANd if I opt out then how much amount will be paid back to me"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "I'm sorry, but I don't have enough information to answer that question based on my current knowledge. If you have any other questions or need further help, feel free to ask!"
+            }
+        }
+    ],
+    "88f5aae8-ec7d-4f9d-a4f4-cb761c9ddba3": [
+        {
+            "type": "human",
+            "data": {
+                "content": "HOSPITALS NOT ELIGIBLE FOR CASHLESS OR REIMBURSEMENT CLAIMS are?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "The hospitals or medical practitioners specified in the list attached to the policy are not eligible for cashless or reimbursement claims. The list of excluded hospitals/medical practitioners is dynamic and may change from time to time. It is important to check with the Call Centre at 1800 102 5858 (Bharti) or 020 - 30305858 (Others) for the most up-to-date information on excluded providers. Expenses incurred towards treatment in any hospital or by any medical practitioner specifically excluded by the policy are not admissible for reimbursement. In case of life-threatening situations or following an accident, expenses up to the stage of stabilization may be payable, but not the complete claim. \n\nIf you have any more questions or need further clarification, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/Policy-copy-GMC-VALUEBOUND-CONSULTING-SERVICES-PRIVATE-2c790242-1784-4d77-93c6-4b4b944e1ef1-87ff9019-39a2-4c7d-b01b-6f049b05706f.pdf\" target=\"_blank\">Source 1: Policy-copy-GMC-VALUEBOUND-CONSULTING-SERVICES-PRIVATE-2c790242-1784-4d77-93c6-4b4b944e1ef1-87ff9019-39a2-4c7d-b01b-6f049b05706f.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 2: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "0262f1fc-3bd9-47b2-a9fc-828ce7ca31b0": [
+        {
+            "type": "human",
+            "data": {
+                "content": "what is not covered in health insurance?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "In health insurance, certain conditions and situations may not be covered. Some of the common exclusions include pre-existing diseases, war-related occurrences, acts of foreign enemies, hostilities, civil war, rebellion, revolutions, insurrections, mutiny, military or usurped power, seizure, capture, arrest, attempting to commit a breach of law with criminal intent, expenses incurred in excluded hospitals or by excluded medical practitioners, and expenses not related to life-threatening situations or accidents up to the stage of stabilization. It's important to review the policy documents and exclusions list provided by the insurance company for specific details on what is not covered. \n\nIf you have any other questions or need further clarification, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "84831007-3f94-4142-a337-88cbf7901900": [
+        {
+            "type": "human",
+            "data": {
+                "content": "will Dental treatment or Surgery of any Kind unless requiring hospitalization be covered?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Dental treatment or surgery of any kind, unless requiring hospitalization, is not covered under the policy. This means that any dental procedures or surgeries that do not necessitate hospitalization will not be covered. If you have any specific questions about coverage or need further clarification, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "cae53f19-0b09-4409-9869-4d844d6269b3": [
+        {
+            "type": "human",
+            "data": {
+                "content": "Any Expenses under Domiciliary Hospitalisation for Treatment  of following diseases:"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Any Expenses under Domiciliary Hospitalisation for Treatment of the following diseases: \n- Asthma\n- Bronchitis\n- Chronic Nephritis and Nephritic Syndrome\n- Diarrhoea and all types of Dysenteries\n\nIf you have any more questions or need further clarification, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 1: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "99a8a9da-8520-48e1-ae7e-449f62d7aa68": [
+        {
+            "type": "human",
+            "data": {
+                "content": "I want to know current 5 HOSPITALS that are NOT ELIGIBLE FOR CASHLESS OR REIMBURSEMENT CLAIMS?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Based on the information provided, the current 5 hospitals that are not eligible for cashless or reimbursement claims are:\n\n1. Hospital Dehradun Garh Vihsra Phase 2 Main Gate Har - Idwar Road Mohakapur Dehradun - Dehradun - Uttarakhand 248005\n2. Sai Nursing Home New Delhi D-8 Main Market Old Kondli (Opp.State bank of Patiala) Delhi - New Delhi - Delhi 110096\n\nFor the most up-to-date and accurate information on excluded hospitals, it is recommended to check with the Call Centre at 1800 102 5858 (Bharti) or 020 - 30305858 (Others).\n\nDo you have any other questions or need further assistance?\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/Policy-copy-GMC-VALUEBOUND-CONSULTING-SERVICES-PRIVATE-2c790242-1784-4d77-93c6-4b4b944e1ef1-87ff9019-39a2-4c7d-b01b-6f049b05706f.pdf\" target=\"_blank\">Source 1: Policy-copy-GMC-VALUEBOUND-CONSULTING-SERVICES-PRIVATE-2c790242-1784-4d77-93c6-4b4b944e1ef1-87ff9019-39a2-4c7d-b01b-6f049b05706f.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 2: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "4a0aeb07-28cb-4a79-aa8b-d8f0d1c22e00": [
+        {
+            "type": "human",
+            "data": {
+                "content": "I want to know 2 current HOSPITALS that are NOT ELIGIBLE FOR CASHLESS OR REIMBURSEMENT CLAIMS?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "The two current hospitals that are not eligible for cashless or reimbursement claims are:\n\n1. HOSPITAL DEHRADUN GARH VIHSRA PHASE 2 MAIN GATE HAR - IDWAR ROAD MOHAKAPUR DEHRADUN - DEHRADUN - UTTARAKHAND 248005\n2. SAI NURSING HOME NEW DELHI D-8 Main Market Old Kondli (Opp.State bank of Patiala)delhi - NEW DELHI - DELHI 110096\n\nIf you have any other questions or need further assistance, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/Policy-copy-GMC-VALUEBOUND-CONSULTING-SERVICES-PRIVATE-2c790242-1784-4d77-93c6-4b4b944e1ef1-87ff9019-39a2-4c7d-b01b-6f049b05706f.pdf\" target=\"_blank\">Source 1: Policy-copy-GMC-VALUEBOUND-CONSULTING-SERVICES-PRIVATE-2c790242-1784-4d77-93c6-4b4b944e1ef1-87ff9019-39a2-4c7d-b01b-6f049b05706f.pdf</a>\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 2: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "628a0180-9563-4f3c-aad5-394eb12c0957": [
+        {
+            "type": "human",
+            "data": {
+                "content": "what if i want to opt out of the insurance policy?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "If you wish to opt out of the medical insurance coverage, you can do so by sending an email indicating your decision to ankita@valuebound.com. Once you opt out, the corresponding amount will be adjusted in your Cost to Company (CTC), leading to an increase in your total salary package. If you have any specific questions or need assistance with the opt-out process, feel free to ask! Do you have any other questions or need further help?\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/Health1.txt\" target=\"_blank\">Source 1: Health1.txt</a>\n- <a href=\"http://127.0.0.1:8000/static/H0999520_GHI1-PolicyDocket.pdf\" target=\"_blank\">Source 2: H0999520_GHI1-PolicyDocket.pdf</a>"
+            }
+        }
+    ],
+    "5aeb2402-ffd1-4fa1-b0b2-508d283e6813": [
+        {
+            "type": "human",
+            "data": {
+                "content": "What is the responsibility of team members in bench employee policy?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "In the Bench Employee Policy, team members who are on the bench, meaning they are not currently working on billable projects or selected for Valuebound's products, are expected to adhere to the company's policies and guidelines, including the fashion code. They should maintain a professional appearance even if they are working from home. It is important for all employees, including those on the bench, to represent the company in a professional manner. If you have any specific questions about the Bench Employee Policy or any other aspect of the organization, feel free to ask!\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 1: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "e59e65b4-b2e5-4595-8901-9a0b3399a79a": [
+        {
+            "type": "human",
+            "data": {
+                "content": "3. Can team members on the bench participate in training or professional development opportunities to enhance their skills during this time?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Yes, team members on the bench are encouraged to participate in training or professional development opportunities to enhance their skills during their extended bench period. This can be a great way to stay productive and continue growing professionally while waiting for new opportunities. If you're interested in specific training programs or resources, feel free to reach out to the HR department for guidance and support. Do you have any other questions or need further help?\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 1: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ],
+    "cadd1e9c-2054-437c-9262-e87f2e2fb69d": [
+        {
+            "type": "human",
+            "data": {
+                "content": "Hello"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "Hello! How can I assist you today? If you have any questions or need help, feel free to ask!"
+            }
+        }
+    ],
+    "0007499e-0fd0-4f8d-b337-b03fc270713c": [
+        {
+            "type": "human",
+            "data": {
+                "content": "1. What specific services or information can you provide assistance with?"
+            }
+        },
+        {
+            "type": "ai",
+            "data": {
+                "content": "As an expert in natural language at Yugm.ai, I can provide assistance with a wide range of services related to natural language processing, understanding, and generation. This includes but is not limited to helping with language models, text analysis, sentiment analysis, chatbots, and more. If you have any questions or need help with anything related to natural language, feel free to ask! Do you have any other questions or need further assistance?\n\n### Sources:\n- <a href=\"http://127.0.0.1:8000/static/HR%20Policy%20-%20Valuebound%20Consulting%20Services%20Pvt%20Ltd.pdf\" target=\"_blank\">Source 1: HR Policy - Valuebound Consulting Services Pvt Ltd.pdf</a>"
+            }
+        }
+    ]
+}

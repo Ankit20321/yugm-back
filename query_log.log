@@ -1,0 +1,95 @@
+2024-10-19 13:21:18,398 - WARNING - Retrying langchain.embeddings.openai.embed_with_retry.<locals>._embed_with_retry in 4.0 seconds as it raised APIError: HTTP code 502 from API (<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+).
+2024-10-22 15:05:58,563 - ERROR - Failed to create new connection using: 9fd560d46ce444398dc15e2a8ba3886b
+2024-10-22 15:06:39,615 - ERROR - Failed to create new connection using: 857b5ded0e3a4b6182333701ec1ddbf0
+2024-10-23 10:30:50,903 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2024-10-23 10:30:51,276 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2024-10-23 10:30:51,587 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/abcde06d-33f8-47b1-b842-2efac08c16c1 "HTTP/1.1 200 OK"
+2024-10-23 10:30:54,935 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/abcde06d-33f8-47b1-b842-2efac08c16c1 "HTTP/1.1 200 OK"
+2024-10-23 10:31:28,641 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2024-10-23 10:31:28,989 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2024-10-23 10:31:29,307 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/94fe83bf-f374-443c-a9ac-8f3a017891e1 "HTTP/1.1 200 OK"
+2024-10-23 10:31:32,633 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/94fe83bf-f374-443c-a9ac-8f3a017891e1 "HTTP/1.1 200 OK"
+2024-10-23 10:31:36,054 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/94fe83bf-f374-443c-a9ac-8f3a017891e1 "HTTP/1.1 200 OK"
+2024-10-23 10:31:39,479 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/94fe83bf-f374-443c-a9ac-8f3a017891e1 "HTTP/1.1 200 OK"
+2024-10-23 13:21:53,454 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2024-10-23 13:21:54,430 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2024-10-23 13:21:54,802 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/3cb37327-5ee1-4684-a030-94ff7e7b6fc2 "HTTP/1.1 200 OK"
+2024-10-23 13:21:58,125 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/3cb37327-5ee1-4684-a030-94ff7e7b6fc2 "HTTP/1.1 200 OK"
+2024-10-23 13:22:01,446 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/3cb37327-5ee1-4684-a030-94ff7e7b6fc2 "HTTP/1.1 200 OK"
+2024-10-23 13:22:05,335 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/3cb37327-5ee1-4684-a030-94ff7e7b6fc2 "HTTP/1.1 200 OK"
+2024-10-23 13:54:31,657 - ERROR - Failed to create new connection using: fe63ac1acebf4f2eb9a106ee685431b8
+2024-10-23 13:55:31,565 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2024-10-23 13:55:31,998 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2024-10-23 13:55:32,387 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/f1d36d5b-ac72-47b8-a356-c8a7a6459537 "HTTP/1.1 200 OK"
+2024-10-23 13:55:35,705 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/f1d36d5b-ac72-47b8-a356-c8a7a6459537 "HTTP/1.1 200 OK"
+2024-10-23 13:55:39,017 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/f1d36d5b-ac72-47b8-a356-c8a7a6459537 "HTTP/1.1 200 OK"
+2024-10-23 13:55:42,453 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/f1d36d5b-ac72-47b8-a356-c8a7a6459537 "HTTP/1.1 200 OK"
+2024-10-23 13:56:43,071 - ERROR - Failed to create new connection using: b0ac7c211f62404a844946483b25904a
+2024-10-23 16:07:44,294 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2024-10-23 16:07:44,677 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2024-10-23 16:07:45,043 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/5940f0e4-d616-48d6-a39e-1be954d3f65c "HTTP/1.1 200 OK"
+2024-10-23 16:07:48,375 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/5940f0e4-d616-48d6-a39e-1be954d3f65c "HTTP/1.1 200 OK"
+2024-10-23 16:07:51,709 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/5940f0e4-d616-48d6-a39e-1be954d3f65c "HTTP/1.1 200 OK"
+2024-10-23 16:07:55,407 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/5940f0e4-d616-48d6-a39e-1be954d3f65c "HTTP/1.1 200 OK"
+2024-10-23 16:20:37,308 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2024-10-23 16:20:37,698 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2024-10-23 16:20:38,071 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/e22d6d24-6c14-4c16-b389-922def2667cc "HTTP/1.1 200 OK"
+2024-10-23 16:20:41,395 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/e22d6d24-6c14-4c16-b389-922def2667cc "HTTP/1.1 200 OK"
+2024-10-23 16:20:44,729 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/e22d6d24-6c14-4c16-b389-922def2667cc "HTTP/1.1 200 OK"
+2024-10-23 16:20:48,160 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/e22d6d24-6c14-4c16-b389-922def2667cc "HTTP/1.1 200 OK"
+2024-10-23 16:27:04,269 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2024-10-23 16:27:04,698 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2024-10-23 16:27:04,996 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/3b753e7c-d5dc-406f-af9e-ca6651ee9801 "HTTP/1.1 200 OK"
+2024-10-23 16:27:08,316 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/3b753e7c-d5dc-406f-af9e-ca6651ee9801 "HTTP/1.1 200 OK"
+2024-10-23 16:27:11,650 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/3b753e7c-d5dc-406f-af9e-ca6651ee9801 "HTTP/1.1 200 OK"
+2024-10-23 16:27:15,380 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/3b753e7c-d5dc-406f-af9e-ca6651ee9801 "HTTP/1.1 200 OK"
+2024-10-23 17:10:20,901 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2024-10-23 17:10:21,852 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2024-10-23 17:10:22,196 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/0443638f-2192-4e50-9255-16d6712217a0 "HTTP/1.1 200 OK"
+2024-10-23 17:10:25,484 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/0443638f-2192-4e50-9255-16d6712217a0 "HTTP/1.1 200 OK"
+2024-10-23 17:10:28,795 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/0443638f-2192-4e50-9255-16d6712217a0 "HTTP/1.1 200 OK"
+2024-10-23 17:10:32,163 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/0443638f-2192-4e50-9255-16d6712217a0 "HTTP/1.1 200 OK"
+2024-10-23 17:21:00,217 - ERROR - Failed to create new connection using: 4cb1f8f2a5574d7c8fa53945f25edf18
+2024-10-23 17:22:28,080 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2024-10-23 17:22:28,511 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2024-10-23 17:22:28,878 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/34cc2e75-3511-4465-babe-6c209732bf8f "HTTP/1.1 200 OK"
+2024-10-23 17:22:32,220 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/34cc2e75-3511-4465-babe-6c209732bf8f "HTTP/1.1 200 OK"
+2024-10-23 17:22:35,555 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/34cc2e75-3511-4465-babe-6c209732bf8f "HTTP/1.1 200 OK"
+2024-10-23 17:22:38,964 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/34cc2e75-3511-4465-babe-6c209732bf8f "HTTP/1.1 200 OK"
+2024-10-23 17:23:01,583 - ERROR - Failed to create new connection using: 96ee1c1d8bfd47b29958ece1ab171170
+2024-10-23 17:45:51,720 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2024-10-23 17:45:52,129 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2024-10-23 17:45:52,562 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/f28a8c94-ea3a-4037-beee-da3b2ddd4590 "HTTP/1.1 200 OK"
+2024-10-23 17:45:55,894 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/f28a8c94-ea3a-4037-beee-da3b2ddd4590 "HTTP/1.1 200 OK"
+2024-10-23 17:45:59,220 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/f28a8c94-ea3a-4037-beee-da3b2ddd4590 "HTTP/1.1 200 OK"
+2024-10-23 17:46:02,941 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/f28a8c94-ea3a-4037-beee-da3b2ddd4590 "HTTP/1.1 200 OK"
+2024-10-24 18:11:46,532 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2024-10-24 18:11:47,101 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2024-10-24 18:11:47,466 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/f3816746-6f25-4cd8-a42e-0f90c5a2edd2 "HTTP/1.1 200 OK"
+2024-10-24 18:11:50,813 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/f3816746-6f25-4cd8-a42e-0f90c5a2edd2 "HTTP/1.1 200 OK"
+2024-10-24 18:11:54,162 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/f3816746-6f25-4cd8-a42e-0f90c5a2edd2 "HTTP/1.1 200 OK"
+2024-10-24 18:11:57,943 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/f3816746-6f25-4cd8-a42e-0f90c5a2edd2 "HTTP/1.1 200 OK"
+2024-10-25 10:47:16,550 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/upload "HTTP/1.1 200 OK"
+2024-10-25 10:47:16,933 - INFO - HTTP Request: POST https://api.assemblyai.com/v2/transcript "HTTP/1.1 200 OK"
+2024-10-25 10:47:17,275 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/52e5ec04-2b3f-4fd0-b5d3-191eeff9c14b "HTTP/1.1 200 OK"
+2024-10-25 10:47:20,593 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/52e5ec04-2b3f-4fd0-b5d3-191eeff9c14b "HTTP/1.1 200 OK"
+2024-10-25 10:47:23,915 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/52e5ec04-2b3f-4fd0-b5d3-191eeff9c14b "HTTP/1.1 200 OK"
+2024-10-25 10:47:27,580 - INFO - HTTP Request: GET https://api.assemblyai.com/v2/transcript/52e5ec04-2b3f-4fd0-b5d3-191eeff9c14b "HTTP/1.1 200 OK"
+2024-12-24 17:05:41,429 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-12-24 17:05:41,460 - WARNING - Retrying langchain.embeddings.openai.embed_with_retry.<locals>._embed_with_retry in 4.0 seconds as it raised RateLimitError: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors..
+2024-12-24 17:05:45,970 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-12-24 17:05:45,970 - WARNING - Retrying langchain.embeddings.openai.embed_with_retry.<locals>._embed_with_retry in 4.0 seconds as it raised RateLimitError: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors..
+2024-12-24 17:05:50,516 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-12-24 17:05:50,516 - WARNING - Retrying langchain.embeddings.openai.embed_with_retry.<locals>._embed_with_retry in 4.0 seconds as it raised RateLimitError: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors..
+2024-12-24 17:05:54,855 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-12-24 17:05:54,855 - WARNING - Retrying langchain.embeddings.openai.embed_with_retry.<locals>._embed_with_retry in 8.0 seconds as it raised RateLimitError: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors..
+2024-12-24 17:06:03,137 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-12-24 17:06:03,138 - WARNING - Retrying langchain.embeddings.openai.embed_with_retry.<locals>._embed_with_retry in 10.0 seconds as it raised RateLimitError: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors..
+2024-12-24 17:06:13,608 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False

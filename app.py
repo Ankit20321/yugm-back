@@ -117,8 +117,8 @@ async def list_files():
                 files_by_folder[relative_folder] = [
                     {
                         "file": file,
-                        "url": f"http://127.0.0.1:8000/static/{relative_folder}/{file}",  # Original file URL
-                        "converted_url": f"http://127.0.0.1:8000/static/converted_files/{file}.html"  # Converted file URL
+                        "url": f"http://129.154.243.12:8000/static/{relative_folder}/{file}",  # Original file URL
+                        "converted_url": f"http://129.154.243.12:8000/static/converted_files/{file}.html"  # Converted file URL
                     }
                     for file in files
                 ]
@@ -368,7 +368,7 @@ def query_response(query: QueryModel):
         formatted_sources = [
             {
                 "file_name": source.split("/")[-1],  # Extract the file name from the URL
-                "static_url": f"http://127.0.0.1:8000/static/{quote(source.split('/')[-1])}"  # Correct static URL here
+                "static_url": f"http://129.154.243.12:8000/static/{quote(source.split('/')[-1])}"  # Correct static URL here
             }
             for source in sources
         ]
